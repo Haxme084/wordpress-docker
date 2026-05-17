@@ -1,4 +1,5 @@
 <?php
+// Modificacion de prueba
 /**
  * Archivo principal del tema (index.php)
  * Plantilla básica de WordPress
